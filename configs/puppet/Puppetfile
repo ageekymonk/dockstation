@@ -1,0 +1,11 @@
+moduledir '/etc/puppet/modules'
+
+mod 'puppetlabs/stdlib'
+
+mod 'puppetlabs/concat'
+
+mod 'puppetlabs/apt'
+
+mod 'puppetlabs/postgresql'
+
+mod 'ajcrowe/supervisord'
