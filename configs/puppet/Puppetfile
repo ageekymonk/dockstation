@@ -9,3 +9,5 @@ mod 'puppetlabs/apt'
 mod 'puppetlabs/postgresql'
 
 mod 'ajcrowe/supervisord'
+
+mod 'jfryman/nginx'
